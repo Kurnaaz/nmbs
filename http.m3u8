@@ -1,4 +1,22 @@
 #EXTM3U
+##############MOVIES############
+#EXTINF:-1 ,LA 2
+http://188.35.9.5:10007/stolen/237p/parasite.install
+#EXTINF:-1 ,NO
+http://91.82.54.45:40124/udp/239.1.3.79:5000?
+EXTINF:-1 ,AMC
+http://188.35.9.11:21151/udp/198y
+#EXTINF:-1 ,SONY SAB
+http://185.246.210.55:2200/NL/sonysab-uk/index.m3u8?token=xrstalker
+https://1skytv.com:88/live/VgVNQvRJiL/bmRYPxNavJ/3527.ts
+#EXTINF:-1 ,FOX
+http://136.243.177.164/FOX/index.m3u8
+#EXTINF:-1 ,HBO
+http://136.243.177.164/HBO/playlist.m3u8
+#EXTINF:-1 ,HBO 2
+http://136.243.177.164/HBO2/playlist.m3u8
+#EXTINF:-1 ,HBO 3
+http://136.243.177.164/HBO3/playlist.m3u8
 ############INDIA###########
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="And Pic" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Shows & Series",And Pic
 http://z5amshls.akamaized.net/andpicssd/playlist.m3u8
@@ -28,6 +46,15 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="& Pictures" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Movies",& Pictures
 http://z5amshls.akamaized.net/andpicssd/tracks-v1a1/index.m3u8
+##############SPORT#################
+#EXTINF:-1 , VIASATSPORT SD
+http://188.93.95.83/viasatsport/index.m3u8
+#EXTINF:-1 , FOOTSPORT SD
+http://89.189.191.250/239.211.211.108/stream.m3u8
+#EXTINF:-1 , MATCH PREMIER HD
+http://195.191.208.80:80/jwt/4497e44f4252b7acb1d1412d7e0fd83b882181e9-520-0-24h502315-None-90559203-1587035792--v2A0n6gqPo7LzFYq89o-QvUbXYdxs_gCJqlVLkKfy5o-0
+#EXTINF:-1 ,PREMIER SPORTS
+http://45.134.21.230/hls/T1.m3u8
 ##############MUSIC#################
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV" tvg-logo="https://i.imgur.com/GPPBEiZ.png" group-title="Music",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
