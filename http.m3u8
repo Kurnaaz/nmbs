@@ -1,0 +1,43 @@
+#EXTM3U
+############INDIA###########
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="And Pic" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Shows & Series",And Pic
+http://z5amshls.akamaized.net/andpicssd/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee TV HD (Canada)" tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Shows & Series",Zee TV HD (Canada)
+http://z5amshls.akamaized.net/canadahd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ztv HD" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Shows & Series",Ztv HD
+http://z5amshls.akamaized.net/ztvme/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee TV HD (USA)" tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Shows & Series",Zee TV HD (USA)
+http://z5amshls.akamaized.net/ztvhdusa/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla HD" tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="Shows & Series",Zee Bangla HD
+http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee bangla cinema" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Shows & Series",Zee bangla cinema
+http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cinema" tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Shows & Series",Zee Bangla Cinema
+http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8?@IPTVSoltuion
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Cinema USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Shows & Series",Zee Cinema USA
+http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_UCQ8r1-2dWimt7roVLe36t5hW6mayouhdA&usqp=CAU" group-title="Shows & Series",Zee Bangla Cinema
+http://z5amshls.akamaized.net:80/zbanglacnm/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Café HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTBpaMDS1hDrgn7fkhQ_-2jt2DI0KyMWbNnL3BSzMOdCIcxO7PY&usqp=CAU" group-title="Shows & Series",Zee Café HD
+http://z5amshls.akamaized.net/zeecafehd/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bollywood Clasic" tvg-logo="https://i.imgur.com/IDLUf7r.png" group-title="Movies",Bollywood Clasic
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bollywood TV" tvg-logo="https://i.imgur.com/4O7CPFq.png" group-title="Movies",Bollywood TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 tvg-id="B4UKadak(src07).in(m3u4u)" tvg-name="B4U Kadak" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest/scale-to-width-down/340?cb=20200320100818" group-title="Movies",B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="& Pictures" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Movies",& Pictures
+http://z5amshls.akamaized.net/andpicssd/tracks-v1a1/index.m3u8
+##############MUSIC#################
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV" tvg-logo="https://i.imgur.com/GPPBEiZ.png" group-title="Music",MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M20 Musics" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/1200px-Radio_m2o_-_Logo_2019.svg.png" group-title="Music",M20 Musics
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOOZ Dance" tvg-logo="https://i.imgur.com/fw2fTCA.jpg" group-title="Music",MOOZ Dance
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/14.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOOZ HD" tvg-logo="https://i.imgur.com/3alPZ8X.jpg" group-title="Music",MOOZ HD
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/14.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOOZ Hits" tvg-logo="https://i.imgur.com/K7jP9r1.jpg" group-title="Music",MOOZ Hits
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOOZ RO" tvg-logo="https://i.imgur.com/cgJNpv9.png" group-title="Music",MOOZ RO
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
