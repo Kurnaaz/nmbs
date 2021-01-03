@@ -64,7 +64,40 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/14.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOOZ HD" tvg-logo="https://i.imgur.com/3alPZ8X.jpg" group-title="Music",MOOZ HD
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/14.m3u8/Level(545259)?start=LIVE&end=END
+########TURKEY############
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/cine5.png" group-title="Film",Cine5 TV
+http://cdn-cine5.yayin.com.tr/cine5/cine5/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/blutvaksiyon.png" group-title="Film",BLUTV Aksiyon
+http://d1vftv9up76vki.cloudfront.net/out/v1/6f27e3bde7274af6b06befa08cd839d7/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/blutvkomedi.png" group-title="Film",BLUTV Komedi
+http://d20aqhpvpegrs2.cloudfront.net/out/v1/d9da7879327241d3831f39b61016a353/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="logos/criturk.png" group-title="Film",CRI Türk Dizi
+http://cri.aa.net.tr:1935/dizi/dizi/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOOZ Hits" tvg-logo="https://i.imgur.com/K7jP9r1.jpg" group-title="Music",MOOZ Hits
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOOZ RO" tvg-logo="https://i.imgur.com/cgJNpv9.png" group-title="Music",MOOZ RO
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
+###########BRAZIL#########
+#EXTINF:-1 tvg-id="23123213213213213213" tvg-name="CINE +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/CINE%2B_-_LOGO.png/1024px-CINE%2B_-_LOGO.png" group-title="",CINE +
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-yO8_nM3g3Gg/XNDGwAZmyHI/AAAAAAAAGs0/IG5xgSkT3v4ClGttboTm96-IE-_1sToQQCK4BGAYYCw/s320/KURIAKOS%2BKIDS.png" group-title="INFANTIL", KURIAKOS KIDS 
+http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
+###########Adult###########
+#EXTINF:-1, Playboy
+http://view.my-tv.biz/tv/a0fccdfeac/997d1c54d0/video.m3u8
+#EXTINF:-1, Adult x
+http://view.my-tv.biz/tv/a0fccdfeac/316e00eb6a/video.m3u8
+#EXTINF:-1, Adult xx
+http://view.my-tv.biz/tv/a0fccdfeac/0240c6c1bb/video.m3u8
+#EXTINF:-1, Adult xxx
+http://view.my-tv.biz/tv/a0fccdfeac/f15a27e53c/video.m3u8
+#EXTINF:-1, Brazzers tv 
+http://list.plusx.tv/m3u8y1.php?token=4466c7c&name=347
+#EXTINF:-1, Red Light
+http://list.plusx.tv/m3u8y1.php?token=4466c7c&name=358
+#EXTINF:-1, Ola la 
+http://list.plusx.tv/m3u8y1.php?token=PUTIN&name=350
+#EXTINF:-1, Hustler HD
+http://list.plusx.tv/m3u8y1.php?token=PUTIN&name=348
+#EXTINF:-1, Penthouse Quickies
+http://list.plusx.tv/m3u8y1.php?token=PUTIN&name=352
